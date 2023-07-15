@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Ankit7832
+# 👋 Hi, I'm Ankit 
 
 Welcome to my GitHub profile! I'm passionate about developing my skills in programming and working with Java, particularly in the context of Data Structures and Algorithms (DSA).
 
