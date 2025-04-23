@@ -1,31 +1,37 @@
-# 👋 Hi, I'm Ankit 
+# 👋 Hi, I'm Ankit!
 
-Welcome to my GitHub profile! I'm passionate about developing my skills in programming and working with Java, particularly in the context of Data Structures and Algorithms (DSA).
+I'm a **BTech student in Computer Science and Engineering**, currently in my final year. Passionate about building impactful software, solving complex problems, and continuously learning new technologies.
 
-## 👀 Interests
-I'm interested in various aspects of computer science and software development. Some of my key interests include:
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Web Development
-- Open-source projects
+## 🚀 What I'm Working On
 
-## 🌱 Currently Learning
-I'm currently focused on expanding my knowledge and proficiency in the following areas:
-- Java programming language
-- Data Structures and Algorithms (DSA) concepts and implementations
-- Software design principles and best practices
+- Developing hands-on projects in **Java**, **Spring Boot**, and **Frontend** technologies (HTML, CSS, JS).
+- Mastering **Data Structures & Algorithms** to ace placement interviews and develop a strong problem-solving mindset.
+- Exploring **SQL** to enhance my backend skills and understanding of databases.
 
-## 💞️ Collaboration
-I'm actively seeking opportunities to collaborate on projects related to Java programming and DSA. If you have any interesting projects or ideas, feel free to reach out to me.
+## 💻 Tech Stack
 
-## 📫 How to Reach Me
-You can connect with me through the following channels:
-- Email: [your-ankitkaurav832@gmail.com)
-- LinkedIn:
+- **Languages:** Java, SQL, HTML, CSS, JavaScript
+- **Frameworks & Tools:** Spring Boot, Spring Security, JPA, Git, Maven
+- **Databases:** MySQL, PostgreSQL
+- **Other:** REST APIs, JWT, Linux, Docker
 
-Feel free to explore my repositories and projects here on GitHub. Don't hesitate to reach out if you have any questions or suggestions.
+## 🔧 Current Projects
 
-Happy coding!
+1. **WalletWise** – A smart finance manager app built using Spring Boot & JWT for secure user authentication.
+2. **Income-Expense Tracker** – A user-specific finance tracker built with Java, Spring Boot, and a RESTful API.
 
+## 📚 What I'm Learning
 
-<!---
+- Deepening my understanding of **Spring Boot** and authentication mechanisms.
+- Strengthening my **DSA** skills with a focus on problem-solving patterns.
+
+## 📈 GitHub Stats
+
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankit7832&show_icons=true&hide_title=true)
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ankit-kaurav-832/)
+- [Portfolio](https://ankitkaurav.com)
+
+Feel free to explore my repositories and projects here on GitHub. Don't hesitate to reach out if you have any questions or collaboration ideas!
