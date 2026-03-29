@@ -1,24 +1,14 @@
 <!-- README for Ankit7832 -->
 
-<h1 align="center">Hey there, I'm Ankit! 👋</h1>
+<h1 align="center">Hey there!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZsd3pmODJjeHh6ZjVhbXR4aTg2Njd0M2lqdDl5aWJ4aDNraWVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tyaucwJExumhG/giphy.gif" alt="Coder" width="200"/>
 </p>
 
 <p align="center">
-  <b>BTech CSE Student | Java Jedi | Backend Sidekick</b><br>
-  <i>Turning ☕ into code (and occasional “Why is this not working?” moments)</i>
+  <b>Java & SpringBoot</b><br>
+  <i>Trying to make things workout somehow</i>
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Final-year Computer Science student at LNCT&S, Bhopal.
-- 🧙 Backend sorcerer conjuring APIs with Java and Spring Boot.
-- 🕵️ Debugging skills: 90% staring, 10% actual fixing.
-- 😅 Can recite the entire HTTP status code song (just kidding, but wouldn’t that be cool?).
-- 🤝 Open to collabs, memes, and code wars (not the stressful kind).
 
 ---
 
@@ -34,36 +24,30 @@
 
 ---
 
-## 🚀 Projects I Brag About
-
-### 🦸‍♂️ [WalletWise - Smart Finance Manager](https://github.com/Ankit7832/walletwise-smart-finance-manager)
-*Your wallet’s new best friend. Secures your finances (and probably your secrets) with Spring Boot & JWT. If only it could secure my grades too!*
+## 🚀 Projects 
 
 ### 🔗 [URL Shortener](https://github.com/Ankit7832/url-shortener)
-*Because life’s too short for long URLs. Powered by Java, fueled by caffeine.*
+*Because life’s too short for long URLs too be remembered*
+
+### 🦸‍♂️ [WalletWise - Smart Finance Manager](https://github.com/Ankit7832/walletwise-smart-finance-manager)
+*Don't know what's the use of this just built it, maybe just tracks income and expenses manually, don't like it*
 
 ---
 
-## 📚 Currently Upgrading
+## 📚 Current State
 
-- Spring Boot magic & authentication tricks
-- DSA for coding interviews (and flexing on LeetCode)
-- My ability to resist adding more TODOs
+- As usual trying my worst.
+- DSA? might be able to solve some!
+- Just do what i can do, or see may be there is another way.
 
 ---
 
 ## 📈 GitHub Stats
-
+-> <i>Does they matter?<i>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit7832&show_icons=true&hide_title=true&theme=radical" alt="Ankit's GitHub stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit7832&theme=radical" alt="Ankit's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit7832&show_icons=true&hide_title=true&theme=radical" alt="GitHub stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit7832&theme=radical" alt="GitHub streak" />
 </p>
-
----
-
-## 🌱 Fun Fact
-
-If debugging is the process of removing bugs, then programming must be the process of putting them in. (Don’t worry, I’m really good at both!)
 
 ---
 
@@ -71,11 +55,10 @@ If debugging is the process of removing bugs, then programming must be the proce
 
 - 📧 Email: [ankitkaurav832@gmail.com](mailto:ankitkaurav832@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-kaurav-4a8bb9255/)
-- 🌐 [Portfolio](https://your-portfolio-link.com) <!-- Replace with your real portfolio -->
 - 🏆 [LeetCode](https://leetcode.com/u/ankitkaurav832/)
 
 ---
 
 <p align="center">
-  <b>Let’s create something legendary (or at least bug-free) together! 🚀</b>
+  <b>Maybe there is something </b>
 </p>
